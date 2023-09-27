@@ -1,2 +1,0 @@
-# se-lab
-második labor
